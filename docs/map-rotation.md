@@ -1,10 +1,16 @@
 # Map Rotation
 
 ::: info PLEASE NOTE
-Maps rotate every **4 months**. This support thread will be updated by maps in the rotation when a new rotation starts.
+Maps rotate every **3 months**. This support thread will be updated by maps in the rotation when a new rotation starts.
 :::
 
-The map rotation is a system NetherGames has in place to keep maps fresh and different. This is a list of all currently rotated maps for all gamemodes in the program.
+## Introduction
+
+The map rotation is a system NetherGames has in place to keep maps fresh and different. Maps are hand-picked by the Game Design team every three months based on community feedback and the season.
+
+The OCTOBER ROTATION is taking place in the FESTIVE SEASON, bringing in many revamps and changes to existing maps you already know and love. This is also the first season where different maps would be set on either day... or night... for increased variety.
+
+This is a list of all currently rotated maps for all gamemodes in the program.
 
 
 ## Quick Access
