@@ -351,12 +351,6 @@ This is a list of all currently rotated maps for all gamemodes in the program.
          width="480" height="270">
 </figure>
 <figure>
-    <figcaption>Coast</figcaption>
-    <img src="assets/MapPhotos/TB/TB_Coast.png"
-         alt="Coast"
-         width="480" height="270">
-</figure>
-<figure>
     <figcaption>Crossbones</figcaption>
     <img src="assets/MapPhotos/TB/TB_Crossbones.png"
          alt="Crossbones"
