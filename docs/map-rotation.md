@@ -339,15 +339,15 @@ This is a list of all currently rotated maps for all gamemodes in the program.
 
 ## The Bridge
 <figure>
-    <figcaption>Blox (NEW)</figcaption>
-    <img src="assets/MapPhotos/TB/TB_Blox.png"
-         alt="Blox"
+    <figcaption>Ash</figcaption>
+    <img src="assets/MapPhotos/TB/TB_Ash.png"
+         alt="Ash"
          width="480" height="270">
 </figure>
 <figure>
-    <figcaption>Castle</figcaption>
-    <img src="assets/MapPhotos/TB/TB_Castle.png"
-         alt="Castle"
+    <figcaption>Castle (SPOOKIFIED)</figcaption>
+    <img src="assets/MapPhotos/TB/HTB_Castle.png"
+         alt="Castle (SPOOKIFIED)"
          width="480" height="270">
 </figure>
 <figure>
@@ -363,39 +363,33 @@ This is a list of all currently rotated maps for all gamemodes in the program.
          width="480" height="270">
 </figure>
 <figure>
-    <figcaption>Frostbite (NEW)</figcaption>
+    <figcaption>Frostbite</figcaption>
     <img src="assets/MapPhotos/TB/TB_Frostbite.png"
          alt="Frostbite"
          width="480" height="270">
 </figure>
 <figure>
-    <figcaption>Aegean</figcaption>
-    <img src="assets/MapPhotos/TB/TB_NewAegaen.png"
-         alt="Aegean"
+    <figcaption>Kraken</figcaption>
+    <img src="assets/MapPhotos/TB/TB_Kraken.png"
+         alt="Kraken"
          width="480" height="270">
 </figure>
 <figure>
-    <figcaption>Overgrown (REVAMPED)</figcaption>
-    <img src="assets/MapPhotos/TB/TB_Overgrown.png"
-         alt="Overgrown"
+    <figcaption>Pirates (REVAMPED)</figcaption>
+    <img src="assets/MapPhotos/TB/TB_Pirates.png"
+         alt="Pirates"
          width="480" height="270">
 </figure>
 <figure>
-    <figcaption>Shuttle</figcaption>
-    <img src="assets/MapPhotos/TB/TB_Shuttle.png"
-         alt="Shuttle"
+    <figcaption>Tabernacle (NEW)</figcaption>
+    <img src="assets/MapPhotos/TB/TB_Tabernacle.png"
+         alt="Tabernacle"
          width="480" height="270">
 </figure>
 <figure>
-    <figcaption>Skyscrapers (NEW)</figcaption>
-    <img src="assets/MapPhotos/TB/TB_Skyscrapers.png"
-         alt="Skyscrapers"
-         width="480" height="270">
-</figure>
-<figure>
-    <figcaption>Solice</figcaption>
-    <img src="assets/MapPhotos/TB/TB_Solice.png"
-         alt="Solice"
+    <figcaption>Wonderland</figcaption>
+    <img src="assets/MapPhotos/TB/TB_Wonderland.png"
+         alt="Wonderland"
          width="480" height="270">
 </figure>
 
