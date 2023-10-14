@@ -31,50 +31,44 @@ This is a list of all currently rotated maps for all gamemodes in the program.
 
 ### Solo/Duos
 <figure>
-    <figcaption>Aquaduct</figcaption>
-    <img src="assets/MapPhotos/BW/BW2/BW2_Aquaduct.png"
-         alt="Aquaduct"
+    <figcaption>Candyland</figcaption>
+    <img src="assets/MapPhotos/BW/BW2/BW2_Candyland.png"
+         alt="Candyland"
          width="480" height="270">
 </figure>
+<figure>
+    <figcaption>Catamaran (SPOOKIFIED)</figcaption>
+    <img src="assets/MapPhotos/BW/BW2/HBW_Catamaran.png"
+         alt="Catamaran (SPOOKIFIED)"
+         width="480" height="270">
 <figure>
     <figcaption>Celestial</figcaption>
-    <img src="assets/MapPhotos/BW/BW2/BW_Celestial.png"
+    <img src="assets/MapPhotos/BW/BW2/BW2_Celestial.png"
          alt="Celestial"
          width="480" height="270">
+</figure>
 <figure>
-    <figcaption>Exodus</figcaption>
-    <img src="assets/MapPhotos/BW/BW2/BW2_Exodus.png"
-         alt="Exodus"
+    <figcaption>Cloud</figcaption>
+    <img src="assets/MapPhotos/BW/BW2/BW2_Cloud.png"
+         alt="Cloud"
          width="480" height="270">
 </figure>
 <figure>
-    <figcaption>Fallen</figcaption>
-    <img src="assets/MapPhotos/BW/BW2/BW_Fallen.png"
-         alt="Fallen"
-         width="480" height="270">
-</figure>
-<figure>
-    <figcaption>Fastfood</figcaption>
-    <img src="assets/MapPhotos/BW/BW2/BW_Fastfood.png"
+    <figcaption>Dynasty (NEW)</figcaption>
+    <img src="assets/MapPhotos/BW/BW2/BW2_Dynasty.png"
          alt="Fastfood"
          width="480" height="270">
 </figure>
 <figure>
-    <figcaption>Industrial</figcaption>
-    <img src="assets/MapPhotos/BW/BW2/BW2_Industrial.png"
-         alt="Industrial"
+    <figcaption>Giants</figcaption>
+    <img src="assets/MapPhotos/BW/BW2/BW2_Giants.png"
+         alt="Giants"
          width="480" height="270">
 </figure>
 <figure>
-    <figcaption>Lighthouse</figcaption>
-    <img src="assets/MapPhotos/BW/BW2/BW2_Lighthouse.png"
-         alt="Lighthouse"
-         width="480" height="270">
-</figure>
-<figure>
-    <figcaption>Perished</figcaption>
-    <img src="assets/MapPhotos/BW/BW2/BW2_Perished.png"
-         alt="Perished"
+    <figcaption>Pandora</figcaption>
+    <img src="assets/MapPhotos/BW/BW2/BW2_Pandora.png"
+         alt="Pandora"
          width="480" height="270">
 </figure>
 <figure>
@@ -84,35 +78,56 @@ This is a list of all currently rotated maps for all gamemodes in the program.
          width="480" height="270">
 </figure>
 <figure>
-    <figcaption>Stumped (NEW)</figcaption>
-    <img src="assets/MapPhotos/BW/BW2/BW2_Stumped.png"
-         alt="Stumped"
+    <figcaption>Shrooms (REVAMPED)</figcaption>
+    <img src="assets/MapPhotos/BW/BW2/BW2_Shrooms.png"
+         alt="Shrooms"
          width="480" height="270">
 </figure>
 <figure>
-    <figcaption>Unearthed</figcaption>
-    <img src="assets/MapPhotos/BW/BW2/BW_Unearthed.png"
-         alt="Unearthed"
+    <figcaption>Stonehenge</figcaption>
+    <img src="assets/MapPhotos/BW/BW2/BW2_Stonehenge.png"
+         alt="Stonehenge"
+         width="480" height="270">
+</figure>
+    
+<figure>
+    <figcaption>Sultry (SEASONAL)</figcaption>
+    <img src="assets/MapPhotos/BW/BW2/BW2_Sultry.png"
+         alt="Sultry"
+         width="480" height="270">
+</figure>
+
+<figure>
+    <figcaption>Undying (SPOOKIFIED)</figcaption>
+    <img src="assets/MapPhotos/BW/BW2/BW2_Undying.png"
+         alt="Undying"
+         width="480" height="270">
+</figure>
+
+<figure>
+    <figcaption>Wilderness (SPOOKIFIED)</figcaption>
+    <img src="assets/MapPhotos/BW/BW2/BW2_Wilderness.png"
+         alt="Wilderness"
          width="480" height="270">
 </figure>
 
 
 ### Squads
 <figure>
-    <figcaption>Ancient City</figcaption>
-    <img src="assets/MapPhotos/BW/BW4/BW4_AncientCity.png"
-         alt="Ancient City"
+    <figcaption>Elementar</figcaption>
+    <img src="assets/MapPhotos/BW/BW4/BW4_Elementar.png"
+         alt="Elementar"
          width="480" height="270">
 </figure>
 <figure>
-    <figcaption>Forsaken</figcaption>
-    <img src="assets/MapPhotos/BW/BW4/BW4_Forsaken.png"
-         alt="Forsaken"
+    <figcaption>Fungal</figcaption>
+    <img src="assets/MapPhotos/BW/BW4/BW4_Fungal.png"
+         alt="Fungal"
          width="480" height="270">
 <figure>
-    <figcaption>Hive</figcaption>
-    <img src="assets/MapPhotos/BW/BW4/BW4_Hive.png"
-         alt="Hive"
+    <figcaption>Giants</figcaption>
+    <img src="assets/MapPhotos/BW/BW4/BW4_Giants.png"
+         alt="Giants"
          width="480" height="270">
 </figure>
 <figure>
@@ -122,27 +137,27 @@ This is a list of all currently rotated maps for all gamemodes in the program.
          width="480" height="270">
 </figure>
 <figure>
-    <figcaption>Elysinia</figcaption>
-    <img src="assets/MapPhotos/BW/BW4/BW_Elysinia.png"
-         alt="Elysinia"
+    <figcaption>Perplexion</figcaption>
+    <img src="assets/MapPhotos/BW/BW4/BW4_Perplexion.png"
+         alt="Perplexion"
          width="480" height="270">
 </figure>
 <figure>
-    <figcaption>Fungal</figcaption>
-    <img src="assets/MapPhotos/BW/BW4/BW_Fungal.png"
-         alt="Fungal"
+    <figcaption>Primus (NEW)</figcaption>
+    <img src="assets/MapPhotos/BW/BW4/BW4_Primus.png"
+         alt="Primus"
          width="480" height="270">
 </figure>
 <figure>
-    <figcaption>Harmony</figcaption>
-    <img src="assets/MapPhotos/BW/BW4/BW_Harmony.png"
-         alt="Harmony"
+    <figcaption>Scarecrow</figcaption>
+    <img src="assets/MapPhotos/BW/BW4/BW4_Scarecrow.png"
+         alt="Scarecrow"
          width="480" height="270">
 </figure>
 <figure>
-    <figcaption>Ukiyo</figcaption>
-    <img src="assets/MapPhotos/BW/BW4/BW_Ukiyo.png"
-         alt="Ukiyo"
+    <figcaption>Wildwest</figcaption>
+    <img src="assets/MapPhotos/BW/BW4/BW4_Wildwest.png"
+         alt="Wildwest"
          width="480" height="270">
 </figure>
 
